@@ -1,0 +1,28 @@
+{
+  "name": "sample_nodejs_app",
+  "version": "1.0.0",
+  "description": "A sample application for learning deployment of aws ecs fargate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AreebSiddiqui/nodejs-ecs-fargate.git"
+  },
+  "keywords": [
+    "aws",
+    "ecs",
+    "fargate",
+    "ecr"
+  ],
+  "author": "Muhammad Areeb Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AreebSiddiqui/nodejs-ecs-fargate/issues"
+  },
+  "homepage": "https://github.com/AreebSiddiqui/nodejs-ecs-fargate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
